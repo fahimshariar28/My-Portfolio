@@ -15,6 +15,18 @@
   border: 0;
   padding: 18px 35px;
 }
+.button-transprant{
+  height: 64px;
+  border-radius: 5px;
+  background: transparent;
+  color: #FD6E0A;
+  font-weight: 700;
+  font-size: 20px;
+  border: 1;
+  border-color: #FD6E0A;
+  padding: 18px 35px;
+  margin-left: 30px;
+}
 section{
   margin-top: 130px;
 
